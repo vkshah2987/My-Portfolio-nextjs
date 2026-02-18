@@ -207,7 +207,6 @@ Feel free to reach out for collaborations or opportunities!
 - 📧 **Email:** [vishalkumarshahofficial@gmail.com](mailto:vishalkumarshahofficial@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/vkumarshah](https://www.linkedin.com/in/vkumarshah/)
 - 🐙 **GitHub:** [github.com/vkshah2987](https://github.com/vkshah2987)
-- 📱 **Phone:** +91 8639085939
 
 ---
 
