@@ -9,7 +9,7 @@
 
 **Modern Portfolio Website showcasing my journey as a Software Engineer & GenAI Specialist**
 
-[Live Demo](https://github.com/vkshah2987/My-Portfolio-nextjs) • [LinkedIn](https://www.linkedin.com/in/vkumarshah/) • [Email](mailto:vishalkumarshahofficial@gmail.com)
+[Live Demo](https://vishal-kumar-shah.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/vkumarshah/) • [Email](mailto:vishalkumarshahofficial@gmail.com)
 
 </div>
 
