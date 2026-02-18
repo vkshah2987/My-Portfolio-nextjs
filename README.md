@@ -24,8 +24,7 @@ Hi! I'm **Vishal Kumar Shah**, a passionate **Software Engineer** at **Accenture
 - 🎨 Creating engaging user experiences
 
 **Location:** Hyderabad, India  
-**Email:** vishalkumarshahofficial@gmail.com  
-**Phone:** +91 8639085939
+**Email:** vishalkumarshahofficial@gmail.com
 
 ---
 
